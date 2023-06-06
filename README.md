@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ainurqa95 PHP/Laravel developer, (maintainer of sch-group/* composer packages)
+- 👋 Hi, I’m @ainurqa95 PHP/Go/Laravel developer, (maintainer of sch-group/* composer packages)
 - 👀 I’m interested in PHP, Go, JS, CI/CD, Tests
-- 🌱 I’m currently learning GO
 - 📫 How to reach me: @ainurecm telegram
 
 <!---
